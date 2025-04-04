@@ -1,0 +1,21 @@
+{
+    "xenia_path": "C:/Users/judof/Downloads/xenia_canary_windows/xenia_canary.exe",
+    "ui_type": "Metro",
+    "game_library": [
+        {
+            "path": "C:/Users/judof/Downloads/games 360\\COD.iso",
+            "fps_counter": false,
+            "resolution": "720p"
+        },
+        {
+            "path": "C:/Users/judof/Downloads/games 360\\LEGO Star Wars - The Complete Saga .iso",
+            "fps_counter": false,
+            "resolution": "720p"
+        },
+        {
+            "path": "C:/Users/judof/Downloads/games 360\\Skate 3 (USA, Europe) (En,Fr,De,Es,It,Nl).iso",
+            "fps_counter": false,
+            "resolution": "720p"
+        }
+    ]
+}
